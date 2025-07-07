@@ -24,4 +24,4 @@ BOAZ 25기 분석 Base 세션 자료 및 과제 제출 repo
 |Week12|25.10.02|VISION 논문 리뷰(미정)|
 |Week13|25.10.09|VISION 논문 리뷰(미정)|
 ***
-Github 사용 안내 : [실습 시 Git Hub 사용 가이드라인](https://oval-alligator-fbf.notion.site/Git-Hub-15c6710199ab8171bc44c081bb22aa00?pvs=4)
+Github 사용 안내 : [실습 시 Git Hub 사용 가이드라인](https://observant-wax-f96.notion.site/Git-Hub-229c031af4b980479de4cb6d7e73bf90?source=copy_link)
